@@ -101,11 +101,6 @@ Traditional input methods like keyboards and touchscreens can limit speed and ac
 
 ---
 
-## 📷 Screenshots
-
-_(Add screenshots of the gesture canvas, equation input, and solution UI here)_
-
----
 
 ## 🧠 License
 
